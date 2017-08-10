@@ -62,7 +62,7 @@
     "constitute": "^1.6.2",
     "ec-key": "0.0.2",
     "github": "^8.1.0",
-    "hogan.js": "*",
+    "hogan.js": "https://github.com/steves2j/hogan.js.git",
     "memoizee": "^0.4.1",
     "mkdirp": "^0.5.1",
     "moment": "*",
